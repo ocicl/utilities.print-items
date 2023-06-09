@@ -1,0 +1,9 @@
+* utilities.print-items
+
+Composable printing of objects.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/scymtym/utilities.print-items.git |
+| commit  | 1a09f56                                                  |
+| systems | utilities.print-items                                    |
+|---------+----------------------------------------------------------|
